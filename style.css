@@ -1,0 +1,28 @@
+#img1,#img2,#img3{
+    width: 400px;
+}
+ #img1:hover{
+     
+    border-radius: 30px;
+    border-style: solid;
+    border-width: 3px;
+    padding: 5px;
+}
+#img2:hover{
+     
+    border-radius: 30px;
+    border-style: solid;
+    border-width: 3px;
+    padding: 5px;
+}
+#img3:hover{
+    border-radius: 30px;
+    border-style: solid;
+    border-width: 3px;
+    padding: 5px;
+}
+
+body{
+background: linear-gradient(0deg, rgba(77,125,123,1) 16%, rgba(50,179,197,1) 43%, rgba(25,23,23,1) 94%);
+color:white;
+}
